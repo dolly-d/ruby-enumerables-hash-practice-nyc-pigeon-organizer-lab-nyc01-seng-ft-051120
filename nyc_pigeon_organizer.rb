@@ -2,6 +2,7 @@
 def nyc_pigeon_organizer(data)
   # write your code here!
   
+<<<<<<< HEAD
   puts data['gender']
   
   new_list = {}
@@ -36,3 +37,10 @@ def nyc_pigeon_organizer(data)
   end
   return new_list
 end
+=======
+  # create array of names
+  # iterate through names array
+  # check the key to see if name is in the value
+  
+end
+>>>>>>> 996b081404d42d665c8782dd847d3bd516aefbd7
